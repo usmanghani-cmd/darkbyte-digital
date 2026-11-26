@@ -1,0 +1,1 @@
+DARKBYTE DIGITAL rebuilt website. Open index.html to preview. Before publishing, replace YOUR_NUMBER in assets/app.js with WhatsApp number (digits only, country code). Pages: index, services, pricing, portfolio, contact.
